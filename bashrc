@@ -172,7 +172,5 @@ export SCM_CHECK=false
 # Uncomment this to make Bash-it create alias reload.
 # export BASH_IT_RELOAD_LEGACY=1
 
-export POWERLINE_PROMPT="clock env user_info cwd"
-
 # Load Bash It
 source "$BASH_IT"/bash_it.sh
