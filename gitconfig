@@ -1,3 +1,5 @@
 [user]
 	name = Patrick Cable
 	email = pc@pcable.net
+[push]
+	default = matching
